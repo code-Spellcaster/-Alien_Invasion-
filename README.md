@@ -1,6 +1,7 @@
 Alien Invasion
 
 Alien Invasion is a game developed in Python using the Pygame library, based on the book "Python Crash Course" by Eric Matthes. This project has been created for educational and learning purposes.
+
 Resources
 
 The graphical and musical resources used in the game have been sourced from OpenGameArt.org under an open license. Special mention goes to the following music tracks:
