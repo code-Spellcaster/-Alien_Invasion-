@@ -23,9 +23,7 @@ Additional Controls
 
     Press "q" at any time to quit the game.
 
-Contributions
 
-Contributions are welcome! If you have ideas for improving the game or find any bugs, feel free to create a pull request or report an issue.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
